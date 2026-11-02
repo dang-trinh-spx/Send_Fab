@@ -1,0 +1,8 @@
+*.xlsx
+*.spydata
+*.pkl
+*.png
+
+datasets/
+results/
+trained_NNs
